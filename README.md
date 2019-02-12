@@ -47,6 +47,16 @@ new Dogs("Corgie", 35, true);
 
 /dogs/{id} -> deletes the dog with that id
 
+## Recommended Steps
+1. Build a new project . 
+2. Add properties (DEBUG logs) and dependencies (Jackson) . 
+3. Create the data class . 
+4. Create the SeedDatabase class . 
+5. Create the repository class . 
+6. Create the ResourceAssembler class . 
+7. Create the Controller class . 
+8. Now you can finally expose your endpoints!
+
 ## Stretch goal and not necessary for MVP  
 
 Delete  
